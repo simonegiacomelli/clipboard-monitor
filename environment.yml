@@ -1,0 +1,7 @@
+name: clipboard-monitor
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pyobjc-framework-Quartz
+  - pyobjc-framework-Cocoa
